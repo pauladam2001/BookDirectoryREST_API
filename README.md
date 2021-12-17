@@ -1,7 +1,7 @@
 # BookDirectoryREST_API
 ### Simple CRUD App for practicing Node.js.
 ---
-# Used Concepts:
+# Used Concepts
 - Node.js
 - Express
 - Body-parser
